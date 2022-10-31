@@ -1,0 +1,3 @@
+module tren {
+	exports tren;
+}
